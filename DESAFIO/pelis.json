@@ -1,0 +1,59 @@
+[ {
+    "title": "Capitan America: Civil Word",
+    "rating": 3,
+    "tags": ["Asombro", "Intensidad", "Accion"]
+},
+
+{
+    "title": "Avengers: Endgame", 
+    "rating": 1, 
+    "tags": ["Asombro", "Intensidad", "Accion"]
+}, 
+
+{
+    "title": "Spider-Man: Lejos de casa",
+    "rating": 5,
+    "tags": ["Asombro", "Intensidad", "Accion"]
+},
+
+{
+    "title": "Doctor Stranger",
+    "rating": 9,
+    "tags": ["Asombro", "Fantastico", "Accion"]
+},
+
+{
+    "title": "Iron Man 3",
+    "rating": 4,
+    "tags": ["Asombro", "Intensidad", "Accion"]
+},
+
+{
+    "title": "Invasion Secreta",
+    "rating": 6,
+    "tags": ["Asombro", "Fantastico", "Accion"]
+},
+
+{
+    "title": "Hulk",
+    "rating": 10,
+    "tags": ["Asombro", "Intensidad", "Accion"]
+},
+
+{
+    "title": "Los Vengadores",
+    "rating": 2,
+    "tags": ["Asombro", "Intensidad", "Accion"]
+},
+
+{
+    "title": "Guardianes de la Galaxia",
+    "rating": 7,
+    "tags": ["Asombro", "Fantastico", "Accion"]
+},
+
+{
+    "title": "Thor: Ragnarok",
+    "rating": 8,
+    "tags": ["Asombro", "Fantastico", "Accion"]
+} ]
